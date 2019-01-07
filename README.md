@@ -18,6 +18,10 @@ git clone git@github.com:maranranu/search-query.git
 ```
 npm install
 ```
+- To run test cases
+```
+npm test
+```
 - To start the application, run the following command
 ```
 npm start
