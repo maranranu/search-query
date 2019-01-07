@@ -1,6 +1,6 @@
 ## About the Application
 
-This application is about to search particular string then return the result in order of some defined priority.
+This application is about to prefix search a particular string then return the result which are sorted in order to priority.
    - Creates an Trie tree from csv file.
    - On searching a particular string, trie tree returns all its children after that data is pushed to priority queue on the basis of following criteria:
       - Exact match (givenName/middleName/surname) has highest priority i.e. 1
